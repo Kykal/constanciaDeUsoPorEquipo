@@ -15,6 +15,7 @@ Para que así, con la definición actualizada, no detecte el ejecutable como un 
 # Instrucciones de uso:
 1. Hacer doble clic en el ejecutable ``constanciaUsoPorEquipoApp.exe``.
 2. Seguir los pasos que el ejecutable indique:
+
   2a. Ingresar el nombre completo de la persona a cargo de la computadora en la cual se ejecute el código.
   2b. Ingresar el CURP de la persona a cargo de la computadora en la cual se ejecuta el código.
   2c. Esperar a que obtenga toda la información necesaria.
