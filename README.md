@@ -9,7 +9,16 @@ Para [descargarlo](https://github.com/Kykal/constanciaDeUsoPorEquipo/releases/ta
 1. Abrir un CMD/PowerShell y cambiar la dirección a ``C:\Program Files\Windows Defender``
 2. Escribir el comando ``MpCmdRun.exe -removedefinitions -dynamicsignatures``
 3. Escribir el comando ``MpCmdRun.exe -SignatureUpdate``
+
 Para que así, con la definición actualizada, no detecte el ejecutable como un virus.
 
 # Instrucciones de uso:
-1. Hacer doble clic en el ejecutable ``constanciaUsoPorEquipoApp.exe`` 
+1. Hacer doble clic en el ejecutable ``constanciaUsoPorEquipoApp.exe``.
+2. Seguir los pasos que el ejecutable indique:
+  a) Ingresar el nombre completo de la persona a cargo de la computadora en la cual se ejecute el código.
+  b) Ingresar el CURP de la persona a cargo de la computadora en la cual se ejecuta el código.
+  c) Esperar a que obtenga toda la información necesaria.
+  d) Se abrirá un documento en formato pdf, se puede cerrar el ejecutable.
+
+## Comportamiento
+Mientras se esté obteniendo la información, en el lugar en donde el usuario alojó el ejecutable se empezarán a crear archivos ``.txt``, estos son totalmente temporales y sirven para la obtención de la información necesaria. Una vez que el programa no los requiera serán borrados de la computadora. Se generará un archivo ``.pdf`` al final que es el resultado y objetivo del programa.
