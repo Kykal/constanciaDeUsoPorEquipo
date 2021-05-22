@@ -2,4 +2,7 @@ Queda estrictamente prohibido el uso total o parcial del código fuente de este 
 
 # Instrucciones de descarga:
 
-Debido a que es un ejecutable nuevo es probable que al momento de descargar el .rar [Google Chrome](https://www.google.com/intl/es_mx/chrome/) no permita descargarlo por sospechas de virus. Esto es un falso positivo por la manera en la que se compiló, pero es totalmente seguro esto declarado por [Microsoft Security Intelligence](https://www.microsoft.com/en-us/wdsi/submission/9c5b8dbd-b6a9-4784-82b0-4d5ff8bae2fd)
+Debido a que es un ejecutable nuevo es probable que al momento de descargar el .rar [Google Chrome](https://www.google.com/intl/es_mx/chrome/) no permita descargarlo por sospechas de virus. Esto es un falso positivo por la manera en la que se compiló, pero es totalmente seguro esto declarado por [Microsoft Security Intelligence](https://www.microsoft.com/en-us/wdsi/submission/9c5b8dbd-b6a9-4784-82b0-4d5ff8bae2fd):
+![imagen](https://user-images.githubusercontent.com/54295964/119240891-774bd600-bb18-11eb-9ddb-2f7894ed364d.png)
+
+Para [descargarlo](https://github.com/Kykal/constanciaDeUsoPorEquipo/releases/tag/v1.0) sugiero hacerlo desde el navegador web [Mozilla Firefox](https://www.mozilla.org/es-MX/firefox/new/)
