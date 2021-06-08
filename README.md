@@ -7,6 +7,7 @@ Para [descargarlo](https://github.com/Kykal/constanciaDeUsoPorEquipo/releases/ta
 1. Abrir un CMD/PowerShell y cambiar la dirección a ``C:\Program Files\Windows Defender``
 2. Escribir el comando ``MpCmdRun.exe -removedefinitions -dynamicsignatures``
 3. Escribir el comando ``MpCmdRun.exe -SignatureUpdate``
+![Uploading carbon(1).png…]()
 
 Para que así, con la definición actualizada, no detecte el ejecutable como un virus.
 
