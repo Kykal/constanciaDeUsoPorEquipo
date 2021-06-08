@@ -7,7 +7,8 @@ Para [descargarlo](https://github.com/Kykal/constanciaDeUsoPorEquipo/releases/ta
 1. Abrir un CMD/PowerShell y cambiar la dirección a ``C:\Program Files\Windows Defender``
 2. Escribir el comando ``MpCmdRun.exe -removedefinitions -dynamicsignatures``
 3. Escribir el comando ``MpCmdRun.exe -SignatureUpdate``
-![test](https://user-images.githubusercontent.com/54295964/121130574-34fee600-c7f4-11eb-9533-118d0f99436c.png)
+![carbon(1)](https://user-images.githubusercontent.com/54295964/121130919-afc80100-c7f4-11eb-80c3-490ad49c4d69.png)
+
 
 
 Para que así, con la definición actualizada, no detecte el ejecutable como un virus.
