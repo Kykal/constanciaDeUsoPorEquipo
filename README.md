@@ -7,7 +7,7 @@ Para [descargarlo](https://github.com/Kykal/constanciaDeUsoPorEquipo/releases/ta
 1. Abrir un CMD/PowerShell y cambiar la dirección a ``C:\Program Files\Windows Defender``
 2. Escribir el comando ``MpCmdRun.exe -removedefinitions -dynamicsignatures``
 3. Escribir el comando ``MpCmdRun.exe -SignatureUpdate``
-![carbon(1)](https://user-images.githubusercontent.com/54295964/121130919-afc80100-c7f4-11eb-80c3-490ad49c4d69.png)
+![cmdps](https://user-images.githubusercontent.com/54295964/121131225-16e5b580-c7f5-11eb-86fa-414e5627b664.png)
 
 
 
